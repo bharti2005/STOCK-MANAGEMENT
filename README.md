@@ -1,1 +1,1 @@
-# Stock-Mamagement
+# Stock-Management
