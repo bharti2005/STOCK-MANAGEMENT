@@ -1,1 +1,1 @@
-# Inventory-Management
+# Stock-Mamagement
