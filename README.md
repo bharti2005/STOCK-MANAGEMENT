@@ -1,7 +1,12 @@
 # Stock Management Project
 
 ## Introduction
-This project is a stock management system with a separate backend and frontend. Follow the steps below to set up and run the project.
+This project is an inventory management system built using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides basic functionalities to assist local shopkeepers in managing their day-to-day operations, such as dealing with and handling stocks effectively.
+
+## Features
+- View and add stocks.
+- Create and view bills.
+- Simplifies stock management for local shopkeepers, addressing common challenges in tracking and organizing inventory.
 
 ## Steps to Set Up and Run
 
